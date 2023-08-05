@@ -10,6 +10,9 @@
 # .vscode
 /.vscode
 
+# .vscode
+/.vscode
+
 # testing
 /coverage
 
